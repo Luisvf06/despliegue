@@ -34,29 +34,19 @@ Discusión sobre diferentes estrategias de despliegue y sus ventajas.
 [Redes en docker] (https://fjrnopzzm23qttuzha7zra.on.drv.tw/AA_Cursos/Curso%20Docker/5_Redes_en_Docker/?authuser=0"Redes")
 
 [Aplicaciones multicapa] (https://fjrnopzzm23qttuzha7zra.on.drv.tw/AA_Cursos/Curso%20Docker/7_Docker-Compose._Aplicaciones_multicapa/?authuser=0 "Aplicaciones multicapa")
-### Subsección 2.1: Estrategia X
+### Sección 3: Servidor Apache
 
-Descripción de la Estrategia X.
+[Servidor Apache] (https://www.evernote.com/shard/s201/client/snv?noteGuid=2d0a817d-4cf7-44cb-b40e-6c70f188d262&noteKey=bba8501aef906f82172d58fe54b292b0&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs201%2Fsh%2F2d0a817d-4cf7-44cb-b40e-6c70f188d262%2Fbba8501aef906f82172d58fe54b292b0&title=Servidor%2BHTTP%2BApache%2B-%2BWikipedia%252C%2Bla%2Benciclopedia%2Blibre&authuser=0 "Servidor HTTP Apache")
 
-### Subsección 2.2: Estrategia Y
+### Subsección 4: Apache Tomcat
 
-Detalles sobre la implementación de la Estrategia Y.
+[Apache Tomcat] (https://www.evernote.com/shard/s201/u/0/client/snv?isnewsnv=true&noteGuid=36c0ab6d-63a7-43fa-b9f4-197d2b31628e&noteKey=Oj7gDlCf8ePc77k65n1opkN0zdG0LRCkq6vgd-vQUIXEHsBN3fWuNTRfUw&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs201%2Fsh%2F36c0ab6d-63a7-43fa-b9f4-197d2b31628e%2FOj7gDlCf8ePc77k65n1opkN0zdG0LRCkq6vgd-vQUIXEHsBN3fWuNTRfUw&title=How%2BTo%2BInstall%2BApache%2BTomcat%2B10%2Bon%2BUbuntu%2B20.04%2B%257C%2BDigitalOcean "Instalación de Apache Tomcat")
 
-## Conclusión
-
-Resumen de los puntos clave discutidos en la documentación.
-
-## Sección 3: Administración de aplicaciones web
-
-Documentación sobre la instalación, securización y administración de distintas aplicaciones web
-
-## Sección 4: Administración de servidores de aplicaciones
-
-Documentación para la instalación de tomcat, minecraft y otras aplicaciones java
 
 ## Sección 5: DNS
 
-Documentación para la configuración de los distintos tipos de DNS
+[Servicios de nombres de dominio] (https://ubuntu.com/server/docs/service-domain-name-service-dns "DNS")
+
 
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
