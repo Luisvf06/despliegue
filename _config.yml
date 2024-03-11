@@ -1,8 +1,25 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Despliegue de Aplicaciones Web
+description: Documentación de la asignatura: Despliegue de Aplicaciones Web
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://luisvf06.github.io/despliegue/
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+heading_anchors: true
+
+nav_external_links:
+  - title: Just the Docs on GitHub
+    url: https://github.com/just-the-docs/just-the-docs
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+    opens_in_new_tab: false # set to true to open this link in a new tab - defaults to false
+
+  <details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>

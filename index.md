@@ -1,7 +1,63 @@
 ---
-title: Home
+title: Despliegue
 layout: home
+nav_order: 1
+description: "Documentación de Despliegue de Aplicaciones Web."
 ---
+
+
+# Bienvenidos a Despliegue de Aplicaciones Web
+
+Aquí encontrarás la documentación necesaria para el curso de Despliegue de Aplicaciones Web.
+
+## Introducción
+
+El contenido de esta sección es el que se proporciona durante el curso de 2º año de DAW, en el que se tratan temas como SSH, servidores web y DNS
+
+## Sección 1: SSH
+
+Documentación sobre SSH
+[Conexion remota y SSH] (https://www.lunium.com/blog/conexion-remota-ssh-y-configuracion-de-sshconfig-/ "documentación orientativa")
+
+## Sección 2: Herramientas de despliegue de aplicaciones web
+
+Discusión sobre diferentes estrategias de despliegue y sus ventajas.
+
+[Introducción a Docker para desarrolladores] (https://fjrnopzzm23qttuzha7zra.on.drv.tw/AA_Cursos/Curso%20Docker/1_Introduccion/ "Curso de Docker")
+
+[Ejecutando y gestionando contenedores] (https://fjrnopzzm23qttuzha7zra.on.drv.tw/AA_Cursos/Curso%20Docker/2_Ejecutando_y_gestionando_contenedores_Docker/ "Ejecutanco y gestionando contenedores")
+
+[Gestión de imágenes] (https://fjrnopzzm23qttuzha7zra.on.drv.tw/AA_Cursos/Curso%20Docker/3_Gestin_de_imgenes_Docker/?authuser=0 "Gestión de imágenes")
+
+[Persistencia en docker] (https://fjrnopzzm23qttuzha7zra.on.drv.tw/AA_Cursos/Curso%20Docker/4_Volmenes_enDocker/?authuser=0 "Persistencia")
+
+[Redes en docker] (https://fjrnopzzm23qttuzha7zra.on.drv.tw/AA_Cursos/Curso%20Docker/5_Redes_en_Docker/?authuser=0"Redes")
+
+[Aplicaciones multicapa] (https://fjrnopzzm23qttuzha7zra.on.drv.tw/AA_Cursos/Curso%20Docker/7_Docker-Compose._Aplicaciones_multicapa/?authuser=0 "Aplicaciones multicapa")
+### Subsección 2.1: Estrategia X
+
+Descripción de la Estrategia X.
+
+### Subsección 2.2: Estrategia Y
+
+Detalles sobre la implementación de la Estrategia Y.
+
+## Conclusión
+
+Resumen de los puntos clave discutidos en la documentación.
+
+## Sección 3: Administración de aplicaciones web
+
+Documentación sobre la instalación, securización y administración de distintas aplicaciones web
+
+## Sección 4: Administración de servidores de aplicaciones
+
+Documentación para la instalación de tomcat, minecraft y otras aplicaciones java
+
+## Sección 5: DNS
+
+Documentación para la configuración de los distintos tipos de DNS
+
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
